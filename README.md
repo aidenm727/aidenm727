@@ -1,6 +1,6 @@
 # Hi, I'm Aiden
 
-I'm a Computer Science student at UVA interested in software, infrastructure, platform engineering, and AI.
+I'm a Computer Science student at UVA interested in software engineering, platform/infrastructure, and AI.
 
 Lately I've been spending most of my time on [aiden-platform](https://github.com/aidenm727/aiden-platform), which started as a homelab project and has grown into a place for me to experiment with Linux, containers, networking, monitoring, recovery, Python tooling, and engineering workflows.
 
