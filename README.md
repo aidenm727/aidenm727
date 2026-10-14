@@ -1,37 +1,29 @@
 # Hi, I'm Aiden
 
-I'm a Computer Science student at the University of Virginia (B.S. expected May 2028) interested in software engineering and building reliable, secure systems.
+I'm a Computer Science student at the University of Virginia (B.S. expected May 2028). I enjoy building software and the infrastructure behind it—from web applications and backend systems to Linux, networking, and deployment.
 
-I enjoy working across software development and infrastructure—taking an idea from a problem to a functioning system that I can deploy, operate, and improve.
+## Projects
 
-## What I'm working on
+### Sahale — Self-Hosted Software
+
+I'm developing a React/TypeScript application for workout tracking, internship application management, and AI-assisted training. Its Fastify/SQLite backend manages persistent records, transactional database upgrades, and AI proposals that require explicit approval before changing data.
+
+The application runs on my homelab. Its source is currently private, with architecture and engineering case studies documented publicly.
+
+**[Explore Sahale →](https://github.com/aidenm727/sahale)**
 
 ### Homelab — Infrastructure & Reliability
 
-I build and operate a personal homelab using Linux, Docker, and Proxmox. It supports self-hosted services, private networking, monitoring, backups, and game servers.
+I build and operate a personal homelab using Linux, Docker, Proxmox, and Tailscale. It hosts applications, network services, monitoring, backups, and Minecraft servers.
 
-Some of my engineering work includes troubleshooting SSH authentication configuration, building observability workflows, and testing recovery from local and encrypted off-site backups.
+My engineering work includes SSH hardening, observability, troubleshooting, and verified database recovery from local and encrypted off-site backups.
 
-**[Explore my Homelab →](https://github.com/aidenm727/homelab)**
-
-### Sahale — Self-Hosted Software Application
-
-I'm developing Sahale, a personal React/TypeScript application deployed on my homelab. Its current features include workout programming and logging, internship application tracking, and a Fitness AI assistant that proposes changes without directly modifying stored data.
-
-I've worked on the application's architecture, database persistence, testing, deployment, and iterative improvements based on actual use. The backend uses Node.js, Fastify, and SQLite, with transactional migrations and explicit validation of AI-generated proposals.
-
-**[Explore Sahale's architecture and engineering →](https://github.com/aidenm727/sahale)**
-
-The application source is currently private; the public repository documents its implementation, engineering decisions, and development history.
-
-### Other Software Projects
-
-I've also worked on a team Java/SQLite application and a client-facing volunteer management system using Next.js, Supabase, and PostgreSQL.
+**[Explore Homelab →](https://github.com/aidenm727/homelab)**
 
 ## Currently
 
-I'm pursuing my CS degree at UVA and working at the McIntire School of Commerce Help Desk.
+I'm studying CS at UVA and working at the McIntire School of Commerce Help Desk.
 
-I'm seeking **Summer 2027 internships** in software engineering, backend systems, platform/infrastructure, and related engineering roles.
+I'm seeking **Summer 2027 internships** in software engineering, backend, platform/infrastructure, and related engineering roles.
 
-[LinkedIn](https://www.linkedin.com/in/aiden-menefee/) · [Homelab](https://github.com/aidenm727/homelab) · [Sahale Engineering](https://github.com/aidenm727/sahale)
+[LinkedIn](https://www.linkedin.com/in/aiden-menefee/) · [Sahale](https://github.com/aidenm727/sahale) · [Homelab](https://github.com/aidenm727/homelab)
