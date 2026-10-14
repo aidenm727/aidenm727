@@ -14,13 +14,15 @@ Some of my engineering work includes troubleshooting SSH authentication configur
 
 **[Explore my Homelab →](https://github.com/aidenm727/homelab)**
 
-### Sahale — Personal Software Platform
+### Sahale — Self-Hosted Software Application
 
-I'm developing Sahale, a personal web application that I host on my homelab. Its current functionality includes workout tracking and persistent internship application management.
+I'm developing Sahale, a personal React/TypeScript application deployed on my homelab. Its current features include workout programming and logging, internship application tracking, and a Fitness AI assistant that proposes changes without directly modifying stored data.
 
-The project brings together software design, AI-assisted development, testing, database persistence, deployment, and ongoing iteration based on actual use.
+I've worked on the application's architecture, database persistence, testing, deployment, and iterative improvements based on actual use. The backend uses Node.js, Fastify, and SQLite, with transactional migrations and explicit validation of AI-generated proposals.
 
-The current application is developed separately from my [public Sahale engineering repository](https://github.com/aidenm727/sahale), which contains earlier Python implementations, tests, and architecture work.
+**[Explore Sahale's architecture and engineering →](https://github.com/aidenm727/sahale)**
+
+The application source is currently private; the public repository documents its implementation, engineering decisions, and development history.
 
 ### Other Software Projects
 
